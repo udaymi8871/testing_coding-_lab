@@ -1,5 +1,7 @@
 tabs:
-  - 'Main.java'
+  - 'Main.java',
+
+run-button: java Main.java
 
 commands:
   run: |
