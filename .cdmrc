@@ -1,0 +1,7 @@
+tabs:
+  - 'Main.java'
+
+commands:
+  run: |
+    javac *.java
+    java Main
