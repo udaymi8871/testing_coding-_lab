@@ -1,9 +1,3 @@
-tabs:
-  - 'Main.java',
-
+tabs: ['Main.java']
 run-button: java Main.java
-
-commands:
-  run: |
-    javac *.java
-    java Main
+terminals: ["java Main.java"]
